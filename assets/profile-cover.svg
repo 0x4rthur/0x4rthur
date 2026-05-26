@@ -1,0 +1,40 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">0x4rthur profile cover</title>
+  <desc id="desc">A dark GitHub profile cover for 0x4rthur with blockchain and web development theme.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070A"/>
+      <stop offset="0.52" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="78" x2="1068" y2="292" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.45" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#A3E635"/>
+    </linearGradient>
+    <filter id="soft" x="-30" y="-30" width="1260" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <path d="M0 290 C170 234 256 323 420 262 C594 197 656 103 822 142 C969 177 1026 92 1200 58 V360 H0 V290Z" fill="url(#accent)" opacity="0.13"/>
+  <path d="M86 72 H1114 V288 H86 V72Z" stroke="url(#accent)" stroke-opacity="0.38" stroke-width="1"/>
+  <path d="M134 116 H236 M134 244 H288 M966 116 H1066 M906 244 H1066" stroke="url(#accent)" stroke-opacity="0.62" stroke-width="2" stroke-linecap="round"/>
+
+  <g opacity="0.36">
+    <circle cx="154" cy="180" r="4" fill="#22D3EE"/>
+    <circle cx="224" cy="142" r="4" fill="#6366F1"/>
+    <circle cx="294" cy="220" r="4" fill="#A3E635"/>
+    <path d="M154 180 L224 142 L294 220" stroke="#94A3B8" stroke-width="1.5"/>
+    <circle cx="1046" cy="180" r="4" fill="#22D3EE"/>
+    <circle cx="976" cy="142" r="4" fill="#6366F1"/>
+    <circle cx="906" cy="220" r="4" fill="#A3E635"/>
+    <path d="M1046 180 L976 142 L906 220" stroke="#94A3B8" stroke-width="1.5"/>
+  </g>
+
+  <text x="600" y="139" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" fill="#F8FAFC">0x4rthur</text>
+  <text x="600" y="182" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#67E8F9">@0x4rthur</text>
+  <text x="600" y="226" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="500" fill="#CBD5E1">Blockchain minded developer building web, automation and AI tools</text>
+  <text x="600" y="266" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#E2E8F0">JavaScript / Python / React / Tailwind CSS / Vite</text>
+</svg>
